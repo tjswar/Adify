@@ -1,0 +1,19 @@
+# Environment
+venv/
+.env
+
+# Streamlit and Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+
+# System files
+.idea/
+.vscode/
+*.log
+
+# Streamlit deployment
+.streamlit/secrets.toml
